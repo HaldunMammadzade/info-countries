@@ -2,7 +2,6 @@ import React, { useState, useEffect } from "react";
 
 import { useParams, Link } from "react-router-dom";
 import { ClimbingBoxLoader } from "react-spinners";
-
 import "../css/style.css";
 
 function Details() {
